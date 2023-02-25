@@ -1,0 +1,22 @@
+body {
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #865e9c;
+  background-image: url('./assets/pexels-nicole-avagliano-2706654.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  background-position-y: 10%;
+  
+
+  
+ }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
